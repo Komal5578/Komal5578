@@ -24,14 +24,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
 
----
 
-###  Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/dist/github-snake.svg#gh-light-mode-only)
-
----
 
 ### 📊 GitHub Stats
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komal5578&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Komal5578&theme=radical&hide_border=true" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Komal5578&show_icons=true&theme=radical&hide_border=true&hide_rank=true" width="300" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical&hide_border=true" width="300" />
+</p>
