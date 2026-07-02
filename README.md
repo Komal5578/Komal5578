@@ -26,9 +26,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/github-snake.svg#gh-light-mode-only)
+###  Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/dist/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Komal5578/Komal5578/output/dist/github-snake.svg#gh-light-mode-only)
 
 ---
 
