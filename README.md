@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Komal;Full+Stack+Developer;Third+year+Computer+Engineering+Student;" alt="Typing SVG" />
 </p>
 
-### 🛠️ Tech Stack
 
 **Programming Languages**
 
