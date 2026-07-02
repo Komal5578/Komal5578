@@ -33,5 +33,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Komal's GitHub stats](https://github-readme-stats-sigma-black.vercel.app/api?username=Komal5578&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical)
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komal5578&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical)
