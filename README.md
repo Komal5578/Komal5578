@@ -24,15 +24,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
 
+###
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Komal5578&theme=radical&hide_border=true" width="600" />
+<p align="left">
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical&hide_border=true" width="400" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Komal5578&show_icons=true&theme=radical&hide_border=true&hide_rank=true" width="300" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Komal5578&layout=compact&theme=radical&hide_border=true" width="300" />
+  <a href="mailto:komalsk1472@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/komal-kanojiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
